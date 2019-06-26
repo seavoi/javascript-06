@@ -1,0 +1,23 @@
+{
+  "name": "package.json",
+  "version": "1.0.0",
+  "description": "Sean's Project 6",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/seavoi/javascript-06.git"
+  },
+  "author": "Sean Voigts",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/seavoi/javascript-06/issues"
+  },
+  "homepage": "https://github.com/seavoi/javascript-06#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "pug": "^2.0.4"
+  }
+}

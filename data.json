@@ -4,47 +4,47 @@
         {
          "id" : "0",
          "project_name" : "Project 1",
-         "description" : "",
-         "technologies" : "",
-         "live_link" : "",
-         "github_link" : "",
-         "image_urls" : ""
+         "description" : "A quote shuffler.",
+         "technologies" : "CSS, HTML, JavaScript",
+         "live_link" : "https://github.com/seavoi/javascript-01/blob/master/index.html",
+         "github_link" : "https://github.com/seavoi/javascript-01",
+         "image_urls" : ["https://github.com/seavoi/javascript-06/blob/master/images/projects/project1-main.png?raw=true", "https://github.com/seavoi/javascript-06/blob/master/images/projects/project1.png?raw=true"]
         },
         {
          "id" : "1",
          "project_name" : "Project 2",
-         "description" : "",
-         "technologies" : "",
-         "live_link" : "",
-         "github_link" : "",
-         "image_urls" : ""
+         "description" : "A sample student directory with pagination.",
+         "technologies" : "CSS, HTML, JavaScript",
+         "live_link" : "https://github.com/seavoi/javascript-02/blob/master/index.html",
+         "github_link" : "https://github.com/seavoi/javascript-02",
+         "image_urls" : ["https://github.com/seavoi/javascript-06/blob/master/images/projects/project2-main.png?raw=true", "https://github.com/seavoi/javascript-06/blob/master/images/projects/project2.png?raw=true"]
         },
         {
          "id" : "2",
          "project_name" : "Project 3",
-         "description" : "",
-         "technologies" : "",
-         "live_link" : "",
-         "github_link" : "",
-         "image_urls" : ""
+         "description" : "A sample registration form.",
+         "technologies" : "CSS, HTML, JavaScript",
+         "live_link" : "https://github.com/seavoi/javascript-03/blob/master/index.html",
+         "github_link" : "https://github.com/seavoi/javascript-03",
+         "image_urls" : ["https://github.com/seavoi/javascript-06/blob/master/images/projects/project3-main.png?raw=true", "https://github.com/seavoi/javascript-06/blob/master/images/projects/project3.png?raw=true"]
         },
         {
          "id" : "3",
          "project_name" : "Project 4",
-         "description" : "",
-         "technologies" : "",
-         "live_link" : "",
-         "github_link" : "",
-         "image_urls" : ""
+         "description" : "A phrase hunter game.",
+         "technologies" : "CSS, HTML, JavaScript",
+         "live_link" : "https://github.com/seavoi/javascript-04/blob/master/index.html",
+         "github_link" : "https://github.com/seavoi/javascript-04",
+         "image_urls" : ["https://github.com/seavoi/javascript-06/blob/master/images/projects/project4-main.png?raw=true", "https://raw.githubusercontent.com/seavoi/javascript-06/master/images/projects/project4-2.png?token=AKVISF5IBVTCXJEY2SRJ32K5CPPIU", "https://raw.githubusercontent.com/seavoi/javascript-06/master/images/projects/project4-1.png?token=AKVISF6N7A4G5I3HEL5T7NK5CPPIC"]
         },
         {
          "id" : "4",
          "project_name" : "Project 5",
-         "description" : "",
-         "technologies" : "",
-         "live_link" : "",
-         "github_link" : "",
-         "image_urls" : ""
+         "description" : "A sample employee directory.",
+         "technologies" : "CSS, HTML, JavaScript",
+         "live_link" : "https://github.com/seavoi/javascript-05/blob/master/index.html",
+         "github_link" : "https://github.com/seavoi/javascript-05",
+         "image_urls" : ["https://github.com/seavoi/javascript-06/blob/master/images/projects/project5-main.png?raw=true", "https://github.com/seavoi/javascript-06/blob/master/images/projects/project5.png?raw=true"]
         }
     ]
 }

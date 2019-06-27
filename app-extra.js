@@ -17,3 +17,13 @@ router.get('/about', (req, res) => {
 router.get('/project', (req, res) => {
 	res.render('project');
 });
+
+
+
+
+
+
+
+
+
+const { data } = require('../data.json');

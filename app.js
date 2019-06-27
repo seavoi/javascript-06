@@ -1,11 +1,24 @@
 const express = require('express');
+const { data } = require('data.json');
 
 const app = express();
 
-app.get('/', (request, response) => {
-    response.send('I love Treehouse!');
+app.use('/static', express.static('public'));
+
+app.set('view engine', 'pug');
+
+app.get('/', (req, res) => {
+	res.render('index');
 });
 
-app.listen(3000);
+app.get('/about', (req, res) => {
+	res.render('about');
+});
 
-/* node app.js */
+app.get('/project', (req, res) => {
+	res.render('project');
+});
+
+app.listen(3000, () => {
+  console.log('The application is running on localhost:3000!')
+});

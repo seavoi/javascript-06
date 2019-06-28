@@ -11,7 +11,7 @@
             "image_urls" : {
                 "thumbnail": "static/img/projects/project1-main.png",
                 "screenshots": [
-                    "static/img/projects/project1.png"
+                    "/static/img/projects/project1.png"
                 ]
             }
         },
@@ -25,7 +25,7 @@
             "image_urls" : {
                 "thumbnail": "static/img/projects/project2-main.png",
                 "screenshots": [
-                    "static/img/projects/project2.png"
+                    "/static/img/projects/project2.png"
                 ]
             }
         },
@@ -39,7 +39,7 @@
             "image_urls" : {
                 "thumbnail": "static/img/projects/project3-main.png",
                 "screenshots": [
-                    "static/img/projects/project3.png"
+                    "/static/img/projects/project3.png"
                 ]
             }
         },
@@ -53,8 +53,8 @@
             "image_urls" : {
                 "thumbnail": "static/img/projects/project4-main.png",
                 "screenshots": [
-                    "static/img/projects/project4-1.png",
-                    "static/img/projects/project4-2.png"
+                    "/static/img/projects/project4-1.png",
+                    "/static/img/projects/project4-2.png"
                 ]
             }
         },
@@ -68,7 +68,7 @@
             "image_urls" : {
                 "thumbnail": "static/img/projects/project5-main.png",
                 "screenshots": [
-                    "static/img/projects/project5.png"
+                    "/static/img/projects/project5.png"
                 ]
             }
         }

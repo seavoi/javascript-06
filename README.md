@@ -3,9 +3,7 @@ Full Stack JavaScript // Project 6
 
 Sean Voigts
 
-/* node app.js */
-https://teamtreehouse.com/projects/static-nodejs-and-express-site
+-Create error handling
+-Technologies
 
-Error with project images on project page
-Create error stuff!
-Technologies
+https://teamtreehouse.com/projects/static-nodejs-and-express-site

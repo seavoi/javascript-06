@@ -18,9 +18,8 @@ block content
 
         //- Use an `each` iterator to replace the li tags below and interploation to dynamically add the technologies used in each project.
         ul
-          li HTML
-          li CSS
-          li JavaScript
+          each technology in project.technologies
+            li #{technology}
 
         a.button.expanded(href=`${project.live_link}` target="blank") Live Demo
         a.button.expanded(href=`${project.github_link}` target="blank") GitHub Repo

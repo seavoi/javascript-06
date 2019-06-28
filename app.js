@@ -26,6 +26,20 @@ app.get("/project/:id", (req, res, next) => {
     res.render("project");
 });
 
+/* Errors */
+app.use((req, res, next) => {
+	const err = new Error('Golly! This page can not be found.');
+	err.status = 404;
+	next(err);
+});
+
+app.use((err, req, res, next) => {
+	res.locals.error = err;
+	res.status(err.status);
+	console.error(err.message)
+	res.render('error', err);
+});
+
 /* Local Host Starter */
 app.listen(3000, () => {
   console.log('You should take a gander at localhost:3000, pal.')

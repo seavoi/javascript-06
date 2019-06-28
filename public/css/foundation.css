@@ -5000,6 +5000,10 @@ a.thumbnail {
   a.thumbnail image {
     box-shadow: none; }
 
+.portfolio-me .thumbnail {
+  border-radius: 50%;
+}
+
 .title-bar {
   padding: 0.5rem;
   background: #0a0a0a;

@@ -5,7 +5,7 @@
             "id" : 0,
             "project_name" : "Project 1",
             "description" : "A quote shuffler.",
-            "technologies" : "CSS, HTML, JavaScript",
+            "technologies" : ["CSS", "HTML", "JavaScript"],
             "live_link" : "https://github.com/seavoi/javascript-01/blob/master/index.html",
             "github_link" : "https://github.com/seavoi/javascript-01",
             "image_urls" : {
@@ -19,7 +19,7 @@
             "id" : 1,
             "project_name" : "Project 2",
             "description" : "A sample student directory with pagination.",
-            "technologies" : "CSS, HTML, JavaScript",
+            "technologies" : ["CSS", "HTML", "JavaScript"],
             "live_link" : "https://github.com/seavoi/javascript-02/blob/master/index.html",
             "github_link" : "https://github.com/seavoi/javascript-02",
             "image_urls" : {
@@ -33,7 +33,7 @@
             "id" : 2,
             "project_name" : "Project 3",
             "description" : "A sample registration form.",
-            "technologies" : "CSS, HTML, JavaScript",
+            "technologies" : ["CSS", "HTML", "JavaScript"],
             "live_link" : "https://github.com/seavoi/javascript-03/blob/master/index.html",
             "github_link" : "https://github.com/seavoi/javascript-03",
             "image_urls" : {
@@ -47,7 +47,7 @@
             "id" : 3,
             "project_name" : "Project 4",
             "description" : "A phrase hunter game.",
-            "technologies" : "CSS, HTML, JavaScript",
+            "technologies" : ["CSS", "HTML", "JavaScript"],
             "live_link" : "https://github.com/seavoi/javascript-04/blob/master/index.html",
             "github_link" : "https://github.com/seavoi/javascript-04",
             "image_urls" : {
@@ -62,7 +62,7 @@
             "id" : 4,
             "project_name" : "Project 5",
             "description" : "A sample employee directory.",
-            "technologies" : "CSS, HTML, JavaScript",
+            "technologies" : ["CSS", "HTML", "JavaScript"],
             "live_link" : "https://github.com/seavoi/javascript-05/blob/master/index.html",
             "github_link" : "https://github.com/seavoi/javascript-05",
             "image_urls" : {

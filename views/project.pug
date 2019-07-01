@@ -7,16 +7,13 @@ block content
     .grid-x
       .cell.small-6.medium-9.large-9
 
-        //- Use interploation to dynamically add the project title.
         h1 #{project.project_name}
 
-        //- Use interploation to dynamically add the project description.
         p.lead.text-light #{project.description}
 
       .cell.portfolio-meta.small-6.medium-2.large-3
         h6 Technologies
 
-        //- Use an `each` iterator to replace the li tags below and interploation to dynamically add the technologies used in each project.
         ul
           each technology in project.technologies
             li #{technology}
